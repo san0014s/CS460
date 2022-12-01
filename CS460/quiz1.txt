@@ -1,0 +1,46 @@
+
+
+LCSEE 									Student Name 
+CS 560/460: Big Data Engineering	 
+Quiz 1
+Released: 	 Monday,  Sept 5, 2022.
+Due:   		 Monday, Sept. 12, 2022, 11:59pm (via eCampus).
+
+Q1: In class, we discussed several of the Vâ€™s used to describe big data.
+Q1A: Briefly describe your understanding of the meaning of the any 4 of the 10 Vâ€™s.  
+Q1B: What is the difference between Veracity and Variability in big data?
+(not more than 1 page in all)
+
+Q2: Let T be the database (the big data) of length n, and P the pattern of length m. In class we described two algorithms for finding the pattern P in the big data T, namely, the naÃ¯ve pattern matching algorithm, and the hash- based pattern matching method. 
+
+The naÃ¯ve algorithm does not require any preprocessing, but the hash-based method does.  
+
+Q2A: We provided a pseudo code for the exact steps of the naÃ¯ve pattern matching algorithm.  
+Provide a similar pseudo code for the hash-based method, or a description of the steps needed.
+
+Q2B: For each algorithm, provide an analysis of the time complexity of the algorithm to show its
+(i) best case, (ii) average case, and (iii) worst case time requirement, in terms of the Big O notation. 
+Compare and contrast the two algorithms in terms of the three cases (i), (ii) and (iii) above.
+
+Q2C: Using your favorite programming environment, implement the two algorithms. Based on your implementation compare the performance of the two pattern matching methods, in terms of time required. 
+
+Using a table, show the time needed for four different patterns.
+Pattern	#of occurrences	Using naÃ¯ve matching	Using hash-based 
+P1= â€œtheâ€			
+P2 = â€œacceptâ€			
+P3 = â€œsubmissionâ€			
+P4 = â€œpapernnâ€			
+Show results for the 4 patterns for two text files: T1= quiz1.txt; T2= world192.txt (both available at eCampus). 
+
+Q3. Paper Summary and Critique 
+Briefly, summarize and critique the following recent paper on role big data in dealing with urban anomaly: 
+M. Zhang, T. Li, Y. Yu, Y. Li, P. Hui and Y. Zheng, "Urban Anomaly Analytics: Description, Detection, and Prediction," in IEEE Transactions on Big Data, vol. 8, no. 3, pp. 809-826, 1 June 2022, doi: 10.1109/TBDATA.2020.2991008. (A copy of the paper is available via eCampus, under â€œassessmentâ€).
+
+Your summary should be no more than 2 pages long.
+
+Note: 
+A paper critique should contain info on the main contributions, the strengths, and weaknesses of the paper, and your own ideas for improving the paper or for solving the problem being addressed.  
+
+
+Submit .pdf copies of your solution via eCampus.  Please combine all materials for your submission into one .pdf file before submitting.  For this quiz, we wonâ€™t accept hand-written submissions in class.
+
